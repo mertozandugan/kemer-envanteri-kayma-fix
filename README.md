@@ -1,0 +1,1 @@
+# kemer-envanteri-kayma-fix
