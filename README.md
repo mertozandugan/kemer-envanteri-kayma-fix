@@ -27,4 +27,12 @@ class BeltInventoryWindow(ui.ScriptWindow):
 		self.AdjustPositionAndSize()
 ```
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.mmotutkunlari.com/data/video/7/7807-2879eddae5696716522c5ed30de13198.mp4)
+
+
+https://user-images.githubusercontent.com/64383663/130693047-b223ea9d-9e00-40a5-8c21-ea1e6cf33367.mp4
+
+
+
+https://user-images.githubusercontent.com/64383663/130693083-52319fb0-6120-4f1c-b2fa-af25b7cea768.mp4
+
+
